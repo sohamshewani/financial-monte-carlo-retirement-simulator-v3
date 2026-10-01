@@ -1,0 +1,5 @@
+# This file lists the required Python packages
+numpy
+pandas
+scipy
+matplotlib
